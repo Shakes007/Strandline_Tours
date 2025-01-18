@@ -39,11 +39,6 @@ h2 {
   .navbar li a, .navbar .navbar-brand {
     color: #fff !important;
 }
-
-  .navbar-logo{
-      height: 20px;
-      width: 20px;
-}
   
   .navbar-nav li a:hover, .navbar-nav li.active a {
     color: #f4511e !important;
